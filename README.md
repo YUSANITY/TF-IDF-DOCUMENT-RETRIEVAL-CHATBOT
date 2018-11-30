@@ -1,4 +1,4 @@
-# TF-IDF-DOCUMENT-RETRIEVAL-CHATBOT
+# TF-IDF DOCUMENT RETRIEVAL CHATBOT
 ### Methodology 
 The chatbot will be created based on a document retrieval based chatbot architecture. 
 It will be trained on a set of questions and answer dataset. When a user queries a question, the chatbot will find the most 
